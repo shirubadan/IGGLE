@@ -6,7 +6,7 @@
 
 Redesign do projeto da disciplina de [Engenharia de Software](https://github.com/if977/if977) (IF977), do curso de graduação em Sistemas de Informação do Centro de Informática da Universidade Federal de Pernambuco (UFPE).
 
-#### [Aplicação desenvolvida durante a disciplina](http://iggle-app.herokuapp.com) | [Redesign da aplicação usando novas tecnologias](https://github.com/hugouraga/Iggle/blob/master/404.md)
+#### [Aplicação desenvolvida durante a disciplina](http://iggle-app.herokuapp.com) | [Redesign da aplicação usando novas tecnologias](https://github.com/shirubadan/Iggle/blob/master/404.md)
 
 
 ## Descrição
