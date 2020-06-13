@@ -1,12 +1,12 @@
 # IGGLE
 
-**| [Home](https://github.com/shirubadan/Iggle/blob/master/README.md)| [Sobre o projeto](https://github.com/shirubadan/Iggle/blob/master/Sobre%20o%20projeto.md) | [Entregas](https://github.com/hugouraga/Iggle/blob/master/%23docs/README.md) |**
+**| [Home](https://github.com/shirubadan/Iggle/blob/master/README.md) | [Sobre o projeto](https://github.com/shirubadan/Iggle/blob/master/Sobre%20o%20projeto.md) | [Entregas](https://github.com/hugouraga/Iggle/blob/master/%23docs/README.md) |**
 
 ---
 
 Redesign do projeto da disciplina de [Engenharia de Software](https://github.com/if977/if977) (IF977), do curso de graduação em Sistemas de Informação do Centro de Informática da Universidade Federal de Pernambuco (UFPE).
 
-#### [Aplicação desenvolvida durante a disciplina](http://iggle-app.herokuapp.com) | [Redesign da aplicação usando novas tecnologias](###)
+#### [Aplicação desenvolvida durante a disciplina](http://iggle-app.herokuapp.com) | [Redesign da aplicação usando novas tecnologias](https://github.com/hugouraga/Iggle/blob/master/404.md)
 
 
 ## Descrição
