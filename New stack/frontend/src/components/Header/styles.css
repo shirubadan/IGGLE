@@ -2,52 +2,69 @@
 
 
 .Header{
-    z-index: 100;
+    /* z-index: 100; */
+    width: 100vw;
+    margin-left: -8px;
+    margin-top: -21px;
 }
 .ListTop{
     width: 100%;
     display: flex;
     position: fixed;
-    opacity: 0.8;
-    height: 185px;
-    transition: 1s;
-    z-index: 100;
-    align-self: start;
+    /* opacity: 0.8; */
+    height: 65px;
+    /* transition: 1s; */
+    /* z-index: 100; */
+    /* align-self: start; */
+    align-items: center;
+}
+.ListTopMenu{
+    display: flex;
+    align-content: center;
+    /* background-color: red; */
 }
 .ListTop{
     background-color: black;    
     opacity: 0.65;
+    width: 100%;    
 }
 .ListTopShortcut {
-    margin-top: 15px;
-    position: absolute;
-    margin-left: 50px;
+    /* margin-top: 15px; */
+    /* position: absolute; */
+    /* margin-left: 50px; */
 }
 .ListTopShortcut li{
-    list-style: none;
-    display: inline;
+    /* list-style: none; */
+    /* display: inline; */
 }
 .ListTopCredential{
-    margin-top: 35px;
+    /* margin-top: 35px; */
     position: absolute;
+    /* align-items: center; */
     right: 0;
     margin-right: 30px;
+    /* background-color: #001aff; */
+    display: inline;
 }
 .ListTopCredential li{
     list-style: none;
-    display: inline;
+    display: inline-block;
+    text-align: right;
+    align-content: center;    
 }
 .ListTopInformation{
-    margin-top: 35px;
-    position: absolute;
-    margin-left: 35px;
+    /* margin-top: 35px; */
+    /* position: absolute; */
+    /* margin-left: 35px; */
     color: white;
     font-family: Mukta, sans-serif;
-    margin-right: 25px;  
-    font-size: 17px;  
+    /* margin-right: 25px;   */
+    font-size: 17px;
+    display: inline-flexbox;
+    
 }
 .ListTopInformation li{
-    list-style: none;
+    /* list-style: none; */
     display: inline;
 }
 .Header ul li a{
@@ -59,14 +76,14 @@
 }
 
 .Header {
-    display: block;
-    height: 45px;
+    /* display: block; */
+    /* height: 45px; */
     position: fixed;
 }
 .NewAdvertise{
-    border-radius: 6px ;
+    border-radius: 20px ;
     background-color: #001aff;
-    padding: 5px 10px;
+    padding: 3px 15px;
     font-family: Mukta;
     font-size: 10px;
 }
